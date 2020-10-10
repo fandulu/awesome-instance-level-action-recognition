@@ -15,7 +15,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 <details>
 <summary>AVA Actions Dataset [monocular-view movies, 80 action labels, 1label/30FPS]</summary>
  <div align="center">
-  <img src="image/ava_demo.gif" width="600px"/>
+  <img src="images/ava_demo.gif" width="600px"/>
 </div>
 [link](http://research.google.com/ava/)
  </details>
@@ -23,7 +23,7 @@ This is a collection of papers and resources for instance-levelaction action rec
  <details>
 <summary>360-Degree Actions Dataset [360-degrees surveillance videos, 19 action labels]</summary>
  <div align="center">
-  <img src="image/360.png" width="600px"/>
+  <img src="images/360.png" width="600px"/>
 </div>
 [link](https://github.com/ryukenzen/360action)
  </details>
