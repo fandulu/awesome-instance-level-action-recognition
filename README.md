@@ -23,7 +23,7 @@ This is a collection of papers and resources for instance-levelaction action rec
  <details>
 <summary>360-Degree Actions Dataset [360-degrees surveillance videos, 19 action labels]</summary>
  <div align="center">
-  <img src="images/360.png" width="600px"/>
+  <img src="images/360.png" width="900px"/>
 </div>
 [link](https://github.com/ryukenzen/360action)
  </details>
