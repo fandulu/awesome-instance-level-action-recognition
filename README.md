@@ -17,6 +17,7 @@ This is a collection of papers and resources for instance-levelaction action rec
  <div align="center">
   <img src="images/ava_demo.gif" width="600px"/>
 </div>
+ 
 [link](http://research.google.com/ava/)
  </details>
  
@@ -25,6 +26,7 @@ This is a collection of papers and resources for instance-levelaction action rec
  <div align="center">
   <img src="images/360.png" width="900px"/>
 </div>
+ 
 [link](https://github.com/ryukenzen/360action)
  </details>
 
