@@ -13,7 +13,13 @@ This is a collection of papers and resources for instance-levelaction action rec
 ## Datasets
 
 <details>
-<summary>AVA Actions Dataset</summary>
+<summary>AVA Actions Dataset [monocular-view movies, 80 action labels, 1label/30FPS]</summary>
+ 
+[link](http://research.google.com/ava/)
+ </details>
+ 
+ <details>
+<summary>AVA Actions Dataset [360-degrees surveillance videos, 19 action labels]</summary>
  
 [link](http://research.google.com/ava/)
  </details>
