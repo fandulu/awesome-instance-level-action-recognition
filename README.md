@@ -11,6 +11,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 - [Papers](#papers)
 
 ## Datasets
+*Note that, since datasets, like UCF Sports and JHMDB, do not have the unique ID assignment for each person, they are not treated as instance-level action recognition datasets here. The AVA ID assignment labels are available in the TAO dataset.
 
 <details>
 <summary>AVA Actions Dataset [monocular-view movies, 80 action labels, labeling every 30 FPS]</summary>
@@ -42,14 +43,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 [link](http://www.panda-dataset.com/index.html)
  </details>
  
- <details>
-<summary>360-Degree Actions Dataset [360-degrees surveillance videos, 19 action labels]</summary>
- <div align="center">
-  <img src="images/360.png" width="900px"/>
-</div>
- 
-[link](https://github.com/ryukenzen/360action)
- </details>
+
 
 
 ## Papers
@@ -70,24 +64,23 @@ This is a collection of papers and resources for instance-levelaction action rec
 </details>
 
 
+## Technique Papers
 
 <details>
-<summary>Weakly-Supervised Multi-Person Action Recognition in 360◦ Videos (WACV2020)</summary>
+<summary>CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization(ECCV2020)</summary>
  
- [pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_Weakly-Supervised_Multi-Person_Action_Recognition_in_360circ_Videos_WACV_2020_paper.pdf)
- [code](https://github.com/ryukenzen/360action)
+ [pdf](https://arxiv.org/pdf/2008.08332.pdf)
  
- @inproceedings{li2020weakly,
-  title={Weakly-Supervised Multi-Person Action Recognition in 360° Videos},
-  author={Li, Junnan and Liu, Jianquan and Wang, Yongkang and Nishimura, Shoji and Kankanhalli, Mohan S},
-  booktitle={2020 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-  pages={497--505},
+@inproceedings{li2020cfad,
+  title={CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization},
+  author={Li, Yuxi and Lin, Weiyao and See, John and Xu, Ning and Xu, Shugong and Yan, Ke and Yang, Cong},
+  booktitle={European Conference on Computer Vision},
+  pages={510--527},
   year={2020},
-  organization={IEEE}
+  organization={Springer}
 }
 </details>
 
-## Technique Papers
 
 
 
