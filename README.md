@@ -14,16 +14,6 @@ This is a collection of papers and resources for instance-levelaction action rec
 *Note that, although datasets like UCF-101 have SpatioTemporal annotations, the action tube ID may not be consistent with person ID. For example, after the same person changing his/her action, the corresponding action tube ID changed while the person ID should remain the same. Person ID is not available in those datasets (e.g., UCF-101, UCF-Sports, JHMDB). It is challenging to using them for instance-level action recognition datasets. We have to use the datasets that not only have an instance-level action label for each person but also have the MOT labels.
 
 
-<details>
-<summary>AVA Actions Dataset [monocular-view movies, 80 action labels, labeling every 30 FPS]</summary>
- <div align="center">
-  <img src="images/ava_demo.gif" width="600px"/>
-</div>
- 
-[link](http://research.google.com/ava/)
- </details>
- 
- 
  
 <details>
 <summary>ActEv Dataset [monocular-view movies, 35 action labels, labeling every 30 FPS w/ MOT label and action label]</summary>
@@ -64,12 +54,29 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 
 ## Papers of Related Works
-### Related Datasets
+### Weakly Related Datasets
+
+
+<details>
+<summary> Spot On: Action Localization from Pointly-Supervised Proposals (ECCV2016)</summary>
+ 
+ (Hollywood2Tubes)[pdf](https://arxiv.org/pdf/1604.07602.pdf)
+ 
+@inproceedings{mettes2016spot,
+  title={Spot on: Action localization from pointly-supervised proposals},
+  author={Mettes, Pascal and Van Gemert, Jan C and Snoek, Cees GM},
+  booktitle={European conference on computer vision},
+  pages={437--453},
+  year={2016},
+  organization={Springer}
+}
+</details>
+
 
 <details>
 <summary>AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions (CVPR2018)</summary>
  
- [pdf](https://arxiv.org/pdf/1705.08421.pdf)
+ (AVA)[pdf](https://arxiv.org/pdf/1705.08421.pdf)
  
 @inproceedings{gu2018ava,
   title={Ava: A video dataset of spatio-temporally localized atomic visual actions},
