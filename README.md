@@ -25,7 +25,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 <details>
 <summary>PANDA Dataset [super-resolution monocular-view movies, labeling every FPS]</summary>
  <div align="center">
-  <img src="images/panda_demo.gif" width="600px"/>
+  <img src="images/panda.png" width="600px"/>
 </div>
  
 [link](http://www.panda-dataset.com/index.html)
