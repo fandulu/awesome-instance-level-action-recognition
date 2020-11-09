@@ -26,7 +26,7 @@ This is a collection of papers and resources for instance-levelaction action rec
  
  
 <details>
-<summary>ActEv Dataset [monocular-view movies, 35 action labels, labeling every 30 FPS]</summary>
+<summary>ActEv Dataset [monocular-view movies, 35 action labels, labeling every 30 FPS w/ MOT label and action label]</summary>
  <div align="center">
   <img src="images/ava_demo.gif" width="600px"/>
 </div>
@@ -36,7 +36,7 @@ This is a collection of papers and resources for instance-levelaction action rec
  
  
 <details>
-<summary>PANDA Dataset [super-resolution monocular-view movies, labeling every FPS]</summary>
+<summary>PANDA Dataset [super-resolution monocular-view movies, labeling every FPS w/ MOT label and action label]</summary>
  <div align="center">
   <img src="images/panda.png" width="600px"/>
 </div>
