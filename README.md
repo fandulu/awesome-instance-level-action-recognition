@@ -45,6 +45,22 @@ This is a collection of papers and resources for instance-levelaction action rec
  </details>
  
 
+## Papers of IAR (Instance-level Action Recognition)
+<details>
+<summary>Argus: Efficient activity detection system for extended video analysis (WACVW2020)</summary>
+ 
+ [pdf](https://openaccess.thecvf.com/content_WACVW_2020/papers/w5/Liu_Argus_Efficient_Activity_Detection_System_for_Extended_Video_Analysis_WACVW_2020_paper.pdf)
+ [codes]()
+ 
+@inproceedings{liu2020argus,
+  title={Argus: Efficient activity detection system for extended video analysis},
+  author={Liu, Wenhe and Kang, Guoliang and Huang, Po-Yao and Chang, Xiaojun and Qian, Yijun and Liang, Junwei and Gui, Liangke and Wen, Jing and Chen, Peng},
+  booktitle={Proceedings of the IEEE Winter Conference on Applications of Computer Vision Workshops},
+  pages={126--133},
+  year={2020}
+}
+</details>
+
 
 
 ## Papers of Related Works
