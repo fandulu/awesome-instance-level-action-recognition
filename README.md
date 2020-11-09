@@ -89,8 +89,55 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 ## Technique Papers
 
-* [A Better Baseline for AVA](https://arxiv.org/pdf/1807.10066.pdf) - R. Girdhar et al., ActivityNet Workshop, CVPR2018. 
-* [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/abs/1705.01861) - V. Kalogeiton et al, ICCV2017. [[code]](https://github.com/vkalogeiton/caffe/tree/act-detector) [[project web]](http://thoth.inrialpes.fr/src/ACTdetector/)
+<details>
+<summary>A Better Baseline for AVA (Arxiv2020)</summary>
+ 
+ [pdf](https://arxiv.org/pdf/2006.07976v2.pdf)
+ [code](https://github.com/Siyu-C/ACAR-Net)
+ 
+@article{pan2020actor,
+  title={Actor-context-actor relation network for spatio-temporal action localization},
+  author={Pan, Junting and Chen, Siyu and Shou, Zheng and Shao, Jing and Li, Hongsheng},
+  journal={arXiv preprint arXiv:2006.07976},
+  url = {https://arxiv.org/pdf/2006.07976v2.pdf},
+  year={2020}
+}
+</details>
+
+
+
+<details>
+<summary>A Better Baseline for AVA (CVPRW2018)</summary>
+ 
+ [pdf](https://arxiv.org/pdf/1807.10066.pdf)
+ 
+@inproceedings{kalogeiton2017action,
+  title={Action tubelet detector for spatio-temporal action localization},
+  author={Kalogeiton, Vicky and Weinzaepfel, Philippe and Ferrari, Vittorio and Schmid, Cordelia},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={4405--4413},
+  year={2017}
+}
+</details>
+
+
+
+<details>
+<summary>Action Tubelet Detector for Spatio-Temporal Action Localization (ICCV2017)</summary>
+ 
+ [pdf](http://thoth.inrialpes.fr/src/ACTdetector/)
+ [code](https://github.com/vkalogeiton/caffe/tree/act-detector)
+ 
+@inproceedings{kalogeiton2017action,
+  title={Action tubelet detector for spatio-temporal action localization},
+  author={Kalogeiton, Vicky and Weinzaepfel, Philippe and Ferrari, Vittorio and Schmid, Cordelia},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={4405--4413},
+  year={2017}
+}
+</details>
+
+
+
 * [Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos](https://arxiv.org/pdf/1703.10664.pdf) - [R. Hou](http://www.cs.ucf.edu/~rhou/) et al, ICCV2017. [[project web]](http://crcv.ucf.edu/projects/TCNN/)
-* [Chained Multi-stream Networks Exploiting Pose, Motion, and Appearance for Action Classification and Detection](https://arxiv.org/abs/1704.00616) - M. Zolfaghari et al, ICCV2017. [[project web]](https://lmb.informatik.uni-freiburg.de/projects/action_chain/)
 * [TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_TORNADO_A_Spatio-Temporal_ICCV_2017_paper.pdf) - H. Zhu et al., ICCV2017. 
