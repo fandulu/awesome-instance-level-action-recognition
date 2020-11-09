@@ -89,8 +89,26 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 ## Technique Papers
 
+
+
 <details>
-<summary>A Better Baseline for AVA (Arxiv2020)</summary>
+<summary>Actions as Moving Points (ECCV2020)</summary>
+ 
+ [pdf](https://arxiv.org/pdf/2001.04608.pdf)
+ [code](https://github.com/MCG-NJU/MOC-Detector)
+ 
+@article{li2020actions,
+  title={Actions as Moving Points},
+  author={Li, Yixuan and Wang, Zixu and Wang, Limin and Wu, Gangshan},
+  journal={arXiv preprint arXiv:2001.04608},
+  year={2020}
+}
+</details>
+
+
+
+<details>
+<summary>Actor-context-actor relation network for spatio-temporal action localization (Arxiv2020)</summary>
  
  [pdf](https://arxiv.org/pdf/2006.07976v2.pdf)
  [code](https://github.com/Siyu-C/ACAR-Net)
@@ -134,6 +152,21 @@ This is a collection of papers and resources for instance-levelaction action rec
   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   pages={4405--4413},
   year={2017}
+}
+</details>
+
+
+<details>
+<summary>Learning to track for spatio-temporal action localization (ICCV2015)</summary>
+ 
+ [pdf](https://openaccess.thecvf.com/content_iccv_2015/papers/Weinzaepfel_Learning_to_Track_ICCV_2015_paper.pdf)
+ 
+@inproceedings{weinzaepfel2015learning,
+  title={Learning to track for spatio-temporal action localization},
+  author={Weinzaepfel, Philippe and Harchaoui, Zaid and Schmid, Cordelia},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={3164--3172},
+  year={2015}
 }
 </details>
 
