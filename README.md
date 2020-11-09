@@ -11,7 +11,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 - [Papers](#papers)
 
 ## Datasets
-*Note that, since datasets, like UCF Sports and JHMDB, do not have the unique ID assignment for each person, it is challenging to using them for instance-level action recognition datasets. The AVA ID assignment labels are available in the TAO dataset.
+*Note that, since datasets, like UCF Sports and JHMDB, have SpatioTemporal Annotations but do not have the unique ID assignment for each person, it is challenging to using them for instance-level action recognition datasets. The AVA ID assignment labels are available in the TAO dataset.
 
 <details>
 <summary>AVA Actions Dataset [monocular-view movies, 80 action labels, labeling every 30 FPS]</summary>
