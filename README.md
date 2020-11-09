@@ -141,7 +141,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 
 
-### Related Technique Papers
+### Weakly Related Technique Papers
 
 <details>
 <summary>CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization(ECCV2020)</summary>
@@ -228,7 +228,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 
 <details>
-<summary>Online Real-time Multiple Spatiotemporal Action Localisation and Prediction (ICCV2015)</summary>
+<summary>Online Real-time Multiple Spatiotemporal Action Localisation and Prediction (CVPR2017)</summary>
  
  [pdf](https://arxiv.org/pdf/1611.08563.pdf)
  [code](https://github.com/gurkirt/corrected-UCF101-Annots)
@@ -238,6 +238,37 @@ This is a collection of papers and resources for instance-levelaction action rec
   author={Singh, Gurkirt and Saha, Suman and Sapienza, Michael and Torr, Philip HS and Cuzzolin, Fabio},
   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   pages={3637--3646},
+  year={2017}
+}
+</details>
+
+
+<details>
+<summary>Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos (ICCV2017)</summary>
+ 
+ [pdf](https://arxiv.org/pdf/1703.10664.pdf)
+ [code](http://crcv.ucf.edu/projects/TCNN/)
+ 
+@inproceedings{hou2017tube,
+  title={Tube convolutional neural network (T-CNN) for action detection in videos},
+  author={Hou, Rui and Chen, Chen and Shah, Mubarak},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={5822--5831},
+  year={2017}
+}
+</details>
+
+
+<details>
+<summary>TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal (ICCV2017)</summary>
+ 
+ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_TORNADO_A_Spatio-Temporal_ICCV_2017_paper.pdf)
+ 
+@inproceedings{zhu2017tornado,
+  title={Tornado: A spatio-temporal convolutional regression network for video action proposal},
+  author={Zhu, Hongyuan and Vial, Romain and Lu, Shijian},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={5813--5821},
   year={2017}
 }
 </details>
@@ -258,10 +289,3 @@ This is a collection of papers and resources for instance-levelaction action rec
 }
 </details>
 
-
-
-
-
-
-* [Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos](https://arxiv.org/pdf/1703.10664.pdf) - [R. Hou](http://www.cs.ucf.edu/~rhou/) et al, ICCV2017. [[project web]](http://crcv.ucf.edu/projects/TCNN/)
-* [TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_TORNADO_A_Spatio-Temporal_ICCV_2017_paper.pdf) - H. Zhu et al., ICCV2017. 
