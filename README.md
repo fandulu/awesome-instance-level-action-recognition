@@ -56,38 +56,6 @@ This is a collection of papers and resources for instance-levelaction action rec
 ## Papers of Related Works
 ### Weakly Related Datasets
 
-
-<details>
-<summary> Spot On: Action Localization from Pointly-Supervised Proposals (ECCV2016)</summary>
- 
- (Hollywood2Tubes)[pdf](https://arxiv.org/pdf/1604.07602.pdf)
- 
-@inproceedings{mettes2016spot,
-  title={Spot on: Action localization from pointly-supervised proposals},
-  author={Mettes, Pascal and Van Gemert, Jan C and Snoek, Cees GM},
-  booktitle={European conference on computer vision},
-  pages={437--453},
-  year={2016},
-  organization={Springer}
-}
-</details>
-
-
-<details>
-<summary>AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions (CVPR2018)</summary>
- 
- (AVA)[pdf](https://arxiv.org/pdf/1705.08421.pdf)
- 
-@inproceedings{gu2018ava,
-  title={Ava: A video dataset of spatio-temporally localized atomic visual actions},
-  author={Gu, Chunhui and Sun, Chen and Ross, David A and Vondrick, Carl and Pantofaru, Caroline and Li, Yeqing and Vijayanarasimhan, Sudheendra and Toderici, George and Ricco, Susanna and Sukthankar, Rahul and others},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={6047--6056},
-  year={2018}
-}
-</details>
-
-
 <details>
 <summary>Weakly-Supervised Multi-Person Action Recognition in 360◦ Videos (WACV2020)</summary>
  
@@ -103,6 +71,72 @@ This is a collection of papers and resources for instance-levelaction action rec
   organization={IEEE}
 }
 </details>
+
+
+<details>
+<summary>AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions (CVPR2018)</summary>
+ 
+ (AVA) [pdf](https://arxiv.org/pdf/1705.08421.pdf)
+ 
+@inproceedings{gu2018ava,
+  title={Ava: A video dataset of spatio-temporally localized atomic visual actions},
+  author={Gu, Chunhui and Sun, Chen and Ross, David A and Vondrick, Carl and Pantofaru, Caroline and Li, Yeqing and Vijayanarasimhan, Sudheendra and Toderici, George and Ricco, Susanna and Sukthankar, Rahul and others},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={6047--6056},
+  year={2018}
+}
+</details>
+
+
+<details>
+<summary> Spot On: Action Localization from Pointly-Supervised Proposals (ECCV2016)</summary>
+ 
+ (Hollywood2Tubes) [pdf](https://arxiv.org/pdf/1604.07602.pdf)
+ 
+@inproceedings{mettes2016spot,
+  title={Spot on: Action localization from pointly-supervised proposals},
+  author={Mettes, Pascal and Van Gemert, Jan C and Snoek, Cees GM},
+  booktitle={European conference on computer vision},
+  pages={437--453},
+  year={2016},
+  organization={Springer}
+}
+</details>
+
+
+<details>
+<summary> Human Action Localization with Sparse Spatial Supervision (ECCV2016)</summary>
+ 
+ (DALY) [pdf](https://arxiv.org/pdf/1605.05197.pdf)
+ 
+@article{weinzaepfel2016human,
+  title={Human action localization with sparse spatial supervision},
+  author={Weinzaepfel, Philippe and Martin, Xavier and Schmid, Cordelia},
+  journal={arXiv preprint arXiv:1605.05197},
+  url = {https://arxiv.org/pdf/1605.05197.pdf},
+  year={2016}
+}
+</details>
+
+
+
+<details>
+<summary> Action Recognition in Realistic Sports Videos (CVPR2008)</summary>
+ 
+ (UCF Sports) [pdf](https://cs.stanford.edu/~amirz/index_files/Springer2015_action_chapter.pdf)
+
+@inproceedings{rodriguez2008action,
+  title={Action mach a spatio-temporal maximum average correlation height filter for action recognition},
+  author={Rodriguez, Mikel D and Ahmed, Javed and Shah, Mubarak},
+  booktitle={2008 IEEE conference on computer vision and pattern recognition},
+  pages={1--8},
+  year={2008},
+  organization={IEEE}
+}
+</details>
+
+
+
 
 
 
