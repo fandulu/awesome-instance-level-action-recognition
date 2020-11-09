@@ -13,12 +13,22 @@ This is a collection of papers and resources for instance-levelaction action rec
 ## Datasets
 
 <details>
-<summary>AVA Actions Dataset [monocular-view movies, 80 action labels, 1label/30FPS]</summary>
+<summary>AVA Actions Dataset [monocular-view movies, 80 action labels, labeling every 30 FPS]</summary>
  <div align="center">
   <img src="images/ava_demo.gif" width="600px"/>
 </div>
  
 [link](http://research.google.com/ava/)
+ </details>
+ 
+ 
+<details>
+<summary>PANDA Dataset [super-resolution monocular-view movies, labeling every FPS]</summary>
+ <div align="center">
+  <img src="images/panda_demo.gif" width="600px"/>
+</div>
+ 
+[link](http://www.panda-dataset.com/index.html)
  </details>
  
  <details>
