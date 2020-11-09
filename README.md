@@ -12,6 +12,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 ## Datasets
 *Note that, although datasets like UCF-101 have SpatioTemporal annotations, the action tube ID may not be consistent with person ID. For example, after the same person changing his/her action, the corresponding action tube ID changed while the person ID should remain the same. Person ID is not available in those datasets (e.g., UCF-101, UCF-Sports, JHMDB). It is challenging to using them for instance-level action recognition datasets. We have to use the datasets that not only have an instance-level action label for each person but also have the MOT labels.
+<img src="https://github.com/fandulu/awesome-instance-level-action-recognition/blob/main/images/tube_person_ID.jpg" width="550">
 
 
  
