@@ -199,12 +199,12 @@ This is a collection of papers and resources for instance-levelaction action rec
  
  [pdf](https://arxiv.org/pdf/1807.10066.pdf)
  
-@inproceedings{kalogeiton2017action,
-  title={Action tubelet detector for spatio-temporal action localization},
-  author={Kalogeiton, Vicky and Weinzaepfel, Philippe and Ferrari, Vittorio and Schmid, Cordelia},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-  pages={4405--4413},
-  year={2017}
+@article{girdhar2018better,
+  title={A better baseline for ava},
+  author={Girdhar, Rohit and Carreira, Jo{\~a}o and Doersch, Carl and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1807.10066},
+  url = {https://arxiv.org/abs/1807.10066}
+  year={2018}
 }
 </details>
 
