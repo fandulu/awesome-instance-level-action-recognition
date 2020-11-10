@@ -74,6 +74,8 @@ This is a collection of papers and resources for instance-levelaction action rec
 </details>
 
 
+### SAL/D
+
 <details>
 <summary>AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions (CVPR2018)</summary>
  
@@ -85,6 +87,21 @@ This is a collection of papers and resources for instance-levelaction action rec
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={6047--6056},
   year={2018}
+}
+</details>
+
+
+<details>
+<summary>The AVA-Kinetics Localized Human Actions Video Dataset (Arxiv2020)</summary>
+ 
+ (AVA-Kinetics) [pdf](https://arxiv.org/pdf/2005.00214.pdf)
+ 
+@article{li2020ava,
+  title={The AVA-Kinetics Localized Human Actions Video Dataset},
+  author={Li, Ang and Thotakuri, Meghana and Ross, David A and Carreira, Jo{\~a}o and Vostrikov, Alexander and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:2005.00214},
+  url = {https://arxiv.org/abs/2005.00214},
+  year={2020}
 }
 </details>
 
