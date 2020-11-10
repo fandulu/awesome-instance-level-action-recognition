@@ -54,8 +54,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 
 
 
-## Papers of Related Works
-### Weakly Related Datasets
+## 360◦ Videos SAL/D
 
 <details>
 <summary>Weakly-Supervised Multi-Person Action Recognition in 360◦ Videos (WACV2020)</summary>
@@ -74,7 +73,9 @@ This is a collection of papers and resources for instance-levelaction action rec
 </details>
 
 
-### SAL/D
+## SAL/D
+
+### Datasets
 
 <details>
 <summary>AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions (CVPR2018)</summary>
@@ -154,11 +155,7 @@ This is a collection of papers and resources for instance-levelaction action rec
 </details>
 
 
-
-
-
-
-### Weakly Related Technique Papers
+### Technique Papers
 
 <details>
 <summary>CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization(ECCV2020)</summary>
